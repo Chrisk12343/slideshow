@@ -1,0 +1,39 @@
+body{
+background-color: lightgreen;
+/*this the backround color of the website*/
+color: rgb(255, 55, 0);
+/*this will change h1 color*/
+
+}
+#slideshow{
+    width:400px;
+    /*sets the width of the div*/
+    margin: 30px auto;
+    /* this centers the div top to bottom by 30 px and should attomactilly center left to right*/
+text-align: center;
+/*makes the the picture cent*/
+}
+.slide{
+width:100px
+/* makes the width 100px for the pictures*/
+}
+button{
+background-color: black;
+/*buttons backround color is black*/
+color:aqua;
+/*color is blue*/
+padding: 10px;
+/*this gives it padding*/
+border-radius: 10px;
+/*gives it a border and makes it look more round*/
+
+}
+.buttons{
+text-align: center;
+/*buttons are centered*/
+
+}
+h1{
+    text-align: center;
+    /*h1 centered*/
+}
